@@ -1,0 +1,24 @@
+{
+  "name": "qclivery",
+  "version": "1.0.0",
+  "description": "forward SMS to IM channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qcl/QCLivery.git"
+  },
+  "author": "Qing-Cheng Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qcl/QCLivery/issues"
+  },
+  "homepage": "https://github.com/qcl/QCLivery#readme",
+  "dependencies": {
+    "config": "^1.31.0",
+    "request": "^2.87.0",
+    "ws": "^6.0.0"
+  }
+}
